@@ -1,0 +1,64 @@
+[
+    {
+      "id":1,
+      "recepietype":"veg",
+      "category":"indian",
+      "subcategory":"Biryani",
+      "image":"",
+      "description":"pour water and make it hot",
+      "ingredients":[
+        {
+          "id":1,
+          "name":"spices",
+          "price":25
+
+        },
+        {
+          "id":2,
+          "name":"turmeric",
+          "price":28
+        }
+  ]
+},
+{
+  "id":2,
+  "recepietype":"veg",
+  "category":"italian",
+  "subcategory":"pizza",
+  "image":"",
+  "description":"add catchup and have it",
+  "ingredients":[
+    {
+      "id":1,
+      "name":"cheese",
+      "price":95
+
+    },
+    {
+      "id":2,
+      "name":"extra topping",
+      "price":100
+    }
+]
+},
+
+{
+  "id":3,
+  "recepietype":"veg",
+  "category":"indian",
+  "subcategory":"Dosa",
+  "image":"",
+  "ingredients":[
+    {
+      "id":1,
+      "name":"chilly",
+      "price":9
+    },
+    {
+      "id":1,
+      "name":"batter",
+      "price":10
+    }
+]
+}
+] 
